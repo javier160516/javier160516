@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Javier Delgado</h1>
 <h3 align="center">A passionate frontend developer from México</h3>
 
-- 🔭 I’m currently working on **IMMOMARKET**
+- 🔭 I’m currently working on **me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
